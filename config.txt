@@ -1,0 +1,6 @@
+﻿token=NTE3Nzk3NjAzODc4ODk1NjI3.DuHcNw.-ub3y1bBDiGbdUELIfm1Uy3lxkg
+owner=281959460946182155
+prefix=9
+game= .
+stayinchannel=true
+songinstatus=true
